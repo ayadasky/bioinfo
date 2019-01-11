@@ -42,7 +42,3 @@ if __name__ == '__main__':
 	#close the pool and wait for the work to finish
 	pool.close()
 	pool.join()
-
-```Bash
-echo "hello GitHub" #Bash
-```
